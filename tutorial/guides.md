@@ -69,7 +69,8 @@ This tutorial is for game memory scanning and modification.
 		```
 		modder install [APK_PACKAGE_NAME].patched
 		```
-	1. Open ATG on your phone/device and click on `Connect to ACE Server`
+	1. Start the apk [APK_PACKAGE_NAME]
+ 	1. Open ATG on your phone/device and click on `Connect to ACE Server`
 	1. Put `56666` in the input field to attach the patched apk to the tool and press `Okay`
 	1. After attached, you can start the exploit
  
